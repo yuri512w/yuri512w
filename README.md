@@ -77,24 +77,15 @@ I’m Yuri, a full-stack engineer, creative coder.
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
-
-## 📊 &nbsp;Stats
-
-<h3 align="left">GitHub Stats</h3>
-
-<div align="left">
-	<a href="https://github.com/yuri512w/github-readme-stats" target = "_blank">
-		<img height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yuri512w&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&title_color=7520FF&text_color=FFF&border_radius=3&border_color=181832&icon_color=7520FF&theme=jolly">
-	</a>
-	<img alt="Top Langs" height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuri512w&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7520FF&hide=html,css&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832">
-	<!-- <a href="https://git.io/streak-stats">
-  		<img height="130em" src="https://streak-stats.demolab.com?user=yuri512w&theme=buefy-dark&border_radius=3&date_format=M%20j%5B%2C%20Y%5D&background=020114&border=181832&ring=7520FF&stroke=181832&currStreakLabel=ED00F2&sideLabels=FCFCFC&currStreakNum=ED00F2&fire=ED00F2&sideNums=7520FF&dates=8B8B8B">
-	</a> -->
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=yuri512w&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri512w&layout=compact&langs_count=20&theme=dark&cache_seconds=7200)
 
 </div>
+
 
 
 <details align="left">
