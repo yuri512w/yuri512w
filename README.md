@@ -92,11 +92,8 @@ I’m Yuri, a full-stack engineer, creative coder.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yuri512&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuri512&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yuri512&show_icons=true&theme=dark" />
 </div>
-
 
 
 
