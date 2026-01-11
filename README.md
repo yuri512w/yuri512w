@@ -82,7 +82,7 @@ I’m Yuri, a full-stack engineer, creative coder.
 <div align="center">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=yuri512w&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri512w&layout=compact&langs_count=20&theme=dark&cache_seconds=7200)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri512&layout=compact&langs_count=20&theme=dark&cache_seconds=7200)
 
 </div>
 
