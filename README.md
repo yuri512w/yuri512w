@@ -92,9 +92,11 @@ I’m Yuri, a full-stack engineer, creative coder.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri512w&layout=compact&langs_count=15&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri512w&layout=compact&langs_count=15&hide_border=true&theme=tokyonight&cache_seconds=1800"
+    alt="Top Languages"
+  />
 </div>
-
 
 
 
