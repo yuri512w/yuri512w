@@ -159,43 +159,41 @@ Também tenho experiência apoiando decisões técnicas, analisando problemas de
 
 ## 📊 GitHub Profile
 
+---
+
+## 📊 GitHub Profile
+
+<p align="center">
+  <a href="https://github.com/yuri512w">
+    <img
+      height="170"
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yuri512w&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+      alt="GitHub Stats"
+    />
+  </a>
+
+  <a href="https://github.com/yuri512w">
+    <img
+      height="170"
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuri512w&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+      alt="Linguagens mais utilizadas"
+    />
+  </a>
+</p>
+
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuri512w&theme=tokyonight"
-    alt="GitHub Profile Details"
+    src="https://streak-stats.demolab.com?user=yuri512w&theme=tokyonight&hide_border=true&locale=pt_BR"
+    alt="Sequência de contribuições no GitHub"
   />
 </p>
 
 <p align="center">
   <img
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuri512w&theme=tokyonight"
-    alt="Repositories per Language"
+    src="https://github-profile-trophy.vercel.app/?username=yuri512w&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
+    alt="Conquistas do GitHub"
   />
-
-<img
- height="180"
- src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuri512w&theme=tokyonight"
- alt="Most Commit Language"
-/>
-
 </p>
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuri512w&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-
-<img
- height="180"
- src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuri512w&theme=tokyonight&utcOffset=-3"
- alt="Productive Time"
-/>
-
-</p>
-
 ---
 
 ## 🔥 Contribution Streak
