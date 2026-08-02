@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">Hello World, I'm Yuri Wallace 👋</h1>
 
 <h3 align="center">
